@@ -1,0 +1,34 @@
+{
+  "workersList": [
+    {
+      "id": 1,
+      "name": "Никита",
+      "image": "https://images.genius.com/9b2eaa3861d61236e256fda9384f653e.1000x1000x1.jpg",
+      "workTime": [false, true, true, false, true, false, true]
+    },
+    {
+      "id": 2,
+      "name": "Анатолий",
+      "image": "https://avatars.yandex.net/get-music-content/34131/7d3bcb20.p.5465911/m1000x1000?webp=false",
+      "workTime": [false, true, true, false, true, false, true]
+    },
+    {
+      "id":  3,
+      "name": "Роман",
+      "image": "https://uchastniki.com/wp-content/uploads/2018/11/loqiemean-7.jpg",
+      "workTime": [false, true, true, false, true, false, true]
+    },
+    {
+      "id": 4,
+      "name": "Денис",
+      "image": "https://exmuz.com/storage/artists/2018/11/26/elem-cover.jpg",
+      "workTime": [false, true, true, false, true, false, true]
+    },
+    {
+      "id": 5,
+      "name": "Джон",
+      "image": "https://moika78.ru/news2/2019/08/DsAFmIUWoAElnwM.jpg",
+      "workTime": [false, true, true, false, true, false, true]
+    }
+  ]
+}
