@@ -1,14 +1,13 @@
 import React from "react";
+import "./schedule-item.css"
 
 const Worker = ({name, image, workTime}) => {
     const currentWorker = workTime.map((el) => {
         const style = el ? " isWorkingDay" : "";
         return (
-            <div key = {el.id}>
-                <li>
-                    <img src={image} alt={name} className = {"avatar" + style}/>
-                </li>
-            </div>
+            <li key = {el.id}>
+                <img src={image} alt={name} className = {"avatar" + style}/>
+            </li>
         )
     });
     return(

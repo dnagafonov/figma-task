@@ -11,7 +11,7 @@ export default class WorkersList extends React.Component{
     createList = () => {
         const list = this.state.workersLis.map(el => {
             return(
-                <span className="display-block" key={el.id}>{Worker(el)}</span>
+                <span className={"display-block"} key={el.id}>{Worker(el)}</span>
             )
         });
         return <div> {list} </div>
