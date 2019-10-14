@@ -5,7 +5,7 @@ import timeTablePart from "./components/center-pannel/timetable";
 function App() {
   return (
     <div>
-      {timeTablePart}
+      {timeTablePart()}
     </div>
   );
 }

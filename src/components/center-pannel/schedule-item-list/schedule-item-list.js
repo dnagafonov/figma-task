@@ -1,11 +1,12 @@
 import React from "react";
-import workersList from './workers';
+import {workersList} from './workers';
 import Worker from "../schedule-item/schedule-item"
 import "./schedule-item-list.css"
 
+
 export default class WorkersList extends React.Component{
     state = {
-        workersLis: {workersList}
+        workersLis: workersList
     };
 
     createList = () => {
@@ -19,7 +20,7 @@ export default class WorkersList extends React.Component{
     render() {
         return(
             <>
-                {this.createList}
+                {this.createList()}
             </>
         );
     }
