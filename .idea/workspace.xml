@@ -2,13 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e73a0fd-0b41-401c-9482-9c7fedd3b3ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../new-todo-list/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-todo-list/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-todo-list/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-todo-list/.idea/new-todo-list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-todo-list/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-todo-list/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-todo-list/src/components/list/add-peron-pannel/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-todo-list/src/components/list/list-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-todo-list/src/components/list/search-pannel/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-todo-list/src/components/list/todo-list-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-todo-list/src/components/list/todo-list-item/todo-list-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-todo-list/src/components/list/todo-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-todo-list/src/components/list/todo-list/todo-list.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../redux-basic/public/custon-ico.ico" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../swapi/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../swapi/public/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../swapi/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/center-pannel/schedule-item-list/schedule-item-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/center-pannel/schedule-item-list/schedule-item-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/center-pannel/schedule-item/schedule-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/center-pannel/schedule-item/schedule-item.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/center-pannel/schedule-item/schedule-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/center-pannel/schedule-item/schedule-item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/src/components/TodoList/TodoList.css" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/src/components/TodoList/TodoList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todolist/src/components/TodoList/TodoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/src/components/TodoList/TodoList.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/center-pannel/schedule-item/schedule-item.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            <state relative-caret-position="312">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -72,11 +87,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/center-pannel/schedule-item/schedule-item.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="144">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -89,7 +104,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/center-pannel/schedule-item-list/schedule-item-list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-96">
+            <state relative-caret-position="-240">
               <caret line="2" column="51" lean-forward="true" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
             </state>
           </provider>
@@ -150,12 +165,12 @@
         <option value="$PROJECT_DIR$/src/components/center-pannel/schedule-item-list/package.json" />
         <option value="$PROJECT_DIR$/src/components/center-pannel/schedule-item-list/workers.json" />
         <option value="$PROJECT_DIR$/src/components/center-pannel/schedule-item-list/schedule-item-list.css" />
-        <option value="$PROJECT_DIR$/src/components/center-pannel/schedule-item/schedule-item.css" />
         <option value="$PROJECT_DIR$/src/components/center-pannel/timetable.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/components/center-pannel/schedule-item-list/schedule-item-list.js" />
         <option value="$PROJECT_DIR$/src/components/center-pannel/schedule-item/schedule-item.js" />
+        <option value="$PROJECT_DIR$/src/components/center-pannel/schedule-item/schedule-item.css" />
       </list>
     </option>
   </component>
@@ -230,7 +245,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../todolist" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -285,12 +300,12 @@
       <workItem from="1570916923502" duration="6837000" />
       <workItem from="1570986743365" duration="6098000" />
       <workItem from="1570995593384" duration="9314000" />
-      <workItem from="1571029784657" duration="791000" />
+      <workItem from="1571029784657" duration="6169000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23040000" />
+    <option name="totallyTimeSpent" value="28418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -368,13 +383,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/center-pannel/schedule-item-list/schedule-item-list.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -404,25 +412,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/center-pannel/schedule-item-list/schedule-item-list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-96">
+        <state relative-caret-position="-240">
           <caret line="2" column="51" lean-forward="true" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/center-pannel/schedule-item/schedule-item.css">
+    <entry file="file://$PROJECT_DIR$/src/components/center-pannel/schedule-item-list/schedule-item-list.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="24">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/center-pannel/schedule-item/schedule-item.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="312">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/center-pannel/schedule-item/schedule-item.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>

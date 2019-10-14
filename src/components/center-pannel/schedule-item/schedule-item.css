@@ -5,12 +5,34 @@
 .avatar {
     border-radius: 100px;
     border: 3px solid white;
-    width: 76px;
-    height: 76px;
+    width: 56px;
+    height: 56px;
     left: 576px;
     top: 59px;
 }
 
 .display-block{
     display: block
+}
+
+li{
+    text-align: center;
+}
+
+.text {
+    width: 119px;
+    height: 23px;
+    left: 555px;
+    top: 15px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 1em;
+    line-height: 30px;
+    text-align: center;
+}
+ul {
+    display: block;
+    list-style-type: none;
+    margin: 3px 3px 3px 3px;
+    padding-inline-start: 2px;
 }

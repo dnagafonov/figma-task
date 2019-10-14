@@ -12,7 +12,7 @@ const Worker = ({name, image, workTime}) => {
     });
     return(
         <div className="display-block">
-            <div>{name}</div>
+            <div className="text">{name}</div>
             <ul>{currentWorker}</ul>
         </div>
     )
